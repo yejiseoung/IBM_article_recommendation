@@ -21,11 +21,11 @@ The files structure is arranged as below:
             - user_item_matrix.p: data to process
         
         - Recommendations_with_IBM.ipynb
-            - **Exploratory Data Analysis**: data exploration, clean, wrangling
-            - **Rank Based Recommendations**: build a recommendation model to find the most popular articles based on the most interactions. This model would be useful for new users who do not have any information in archive. 
-            - **User-User Based Collaborative Filtering**: build a recommendation model based on similarities between users and items. 
-            - **Content Based Recommendations**: build a recommendation model by using natural language processing (NLP).
-            - **Matrix Factorization**: build a recommendation model based on the user-item interactions. We built a matrix decomposition, and saw how well the model can predict new articles that users interact with. 
+            - Exploratory Data Analysis: data exploration, clean, wrangling
+            - Rank Based Recommendations: build a recommendation model to find the most popular articles based on the most interactions. This model would be useful for new users who do not have any information in archive. 
+            - User-User Based Collaborative Filtering: build a recommendation model based on similarities between users and items. 
+            - Content Based Recommendations: build a recommendation model by using natural language processing (NLP).
+            - Matrix Factorization: build a recommendation model based on the user-item interactions. We built a matrix decomposition, and saw how well the model can predict new articles that users interact with. 
             
         - README.md
 
